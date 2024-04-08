@@ -1,0 +1,446 @@
+  /* future section */
+  *{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  }
+  .ft1
+  {
+    background-color: black;
+      text-align: left;
+      font-family: arial, sans-serif;
+      height: 650px;
+  }
+  .ft2
+  {
+    background-color:black;
+    text-align: left;
+    font-family: arial, sans-serif;
+    height: 650px;
+    width: 500%;
+  }
+  .rob{
+  
+    width: 74%;
+    height:10%;
+  }
+  .text-center
+  {
+  background-color: white;
+  }
+  div {
+    width: 100%;
+    h1,p{
+    text-align:left;
+  }
+  .h1{
+    margin: 0px 0px 0px -50px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 170px;
+    }
+  }
+    p {
+    text-indent: 2px;
+  }
+  img {
+    margin: 0px 0px 0px 120px;
+    }
+  p{
+    margin: 0px 0px 0px -50px;
+  }
+  /* end  future section*/
+  
+  
+  
+  /* technology section */
+  /* .technology-center */
+  .ft3
+  {
+    background-color: white;
+      text-align: left;
+      font-family: arial, sans-serif;
+      height: 600px;
+  }
+  .ft4
+  {
+    background-color:white;
+      text-align: left;
+      font-family: arial, sans-serif;
+      height: 600px;
+  }
+   div{
+    width:100%;
+   }
+  .techno
+  {
+    margin: 0;
+    width: 80%;
+    height: 10%;
+    margin-top: 50px;
+  
+  }
+  .woko
+  {
+    margin: 0;
+    width: 130%;
+    height: 10%;
+    margin: -500px 0px 0px -170px;
+    }
+  
+  #future {
+      width: 100vw;
+    height: 100vh;
+    position:relative;
+    overflow:auto;
+  
+  }
+  #technology{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow:auto;
+    margin-top: -50px;
+    margin-bottom: 150px;
+  
+  }
+  .heading2{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0px 0px 0px -150px;
+    padding-top: 130px;
+    font-weight: 400;
+  }
+  .heading3,.heading4{
+    margin: 0px 0px 0px 191px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    }
+  .heading3{
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
+  .heading4{
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+    }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  img {
+    width: 69%;
+    height: 10%;
+  }
+  .container{
+    min-height: 100vh;
+    min-width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    /* background-color: blue; */
+    }
+   h2{ font-family: arial, sans-serif;}
+    h3{
+      font-family:georgia,serif ;
+      font-size: 30px;
+    }
+    h4{
+      font-family: garamond,serif;
+      font-size: 20px;
+    }
+    /* end technology section */
+  
+  
+  
+  
+  
+    /* work section */
+  
+  
+    .grid-container {
+      display: grid;
+      column-gap: 0px;
+      grid-row: ;
+      grid-template-columns: auto auto ;
+      grid-row: 5px 5px;
+      padding: 10px;
+      width: 100%;
+      margin-top: -200px;
+      }
+  
+    .grid-item {
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      font-size: 30px;
+      text-align: center;
+      padding: 0px;
+      height: 400px;
+      width: 100%;
+    }
+  .work-center
+    {
+      margin-top: -250px;
+      background-color:#b9dfdf;
+    }
+  
+    div {
+      width: 100%;
+    .ft5
+    {
+      background-color: #1a1a1a;
+      text-align: left;
+      font-family: arial, sans-serif;
+      height: 500px;
+      width: 500px;
+  
+  }
+    .ft6
+    {
+      background-color:#b9dfdf;
+    }
+  }
+  .heading5{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: -50px 0px 0px -100px;
+    padding-top: 130px;
+  }
+  .heading6{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: -100px 0px 0px 90px;
+    padding-top: 130px;
+  }
+  .coll{
+    margin: 0;
+    width: 154%;
+    height: 10%;
+    margin-top: 250px;
+    margin: 240px 0px 0px -580px;
+  }
+  /* end work section */
+  
+  
+  
+  /* CES-2019 */
+  
+  .CES-center{
+    flex: auto;
+  }
+  .ft7{
+    background-color: #aea16a;
+    height: 220px;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 100px;
+  }
+  .ft8{
+    background-color: red;
+    height: 270px;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 10px;
+  }
+  .heading7{
+  font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0px 0px 0px -80px;
+    padding-top: 50px;
+  }
+  .heading8{
+    font-size:48px ;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px 0px 0px 40px;
+    margin-bottom: 100px;
+  }
+  .zoo{
+    margin: 0;
+    width: 100%;
+    height: 270px;
+    margin-top: 250px;
+    margin: 0px 0px 0px 0px;
+  }
+  .ft9{
+    background-color: aqua;
+    margin-left: 600px;
+    margin-top: -500px;
+    height: 500px;
+    width: 400px;
+  }
+  .boo{
+    margin: 0;
+    width: 100%;
+    height: 500px;
+    margin-top: 250px;
+    margin: 0px 0px 0px 0px;
+  }
+  .ft10{
+    background-color: #b9dfdf;
+    margin-left: 1020px;
+    margin-top: -500px;
+    height: 500px;
+    width: 400px;
+    padding: 30px;
+  }
+  .ak{
+    font-size: 1.25rem;
+    font-weight: 300;
+    font: 20px;
+    position: relative;
+  }
+  /* end CES-2019   */
+  
+  
+  
+  /* robotization */
+  .ft11
+  {
+    margin-top: 150px;
+    height: 400px;
+    width: 600px;
+    padding: 150px;
+    margin-bottom: 100px;
+  }
+  .coo{
+  
+    width: 1550px;
+    height: 505px;
+    margin-top: 10px;
+    margin: -200px 0px 0px -150px;
+    }
+  .heading10{
+    font-size: 1.875rem;
+      font-weight: 400;
+      margin-right:100px ;
+      margin-bottom: 1000px;
+  }
+  .a1{
+    padding: 50px;
+    font-size: 20px;
+    font-style:'Open Sans', sans-serif ;
+    width: 500px;
+  }
+  .heading11{
+    padding: 0px 0px 0px 110px;
+  }
+  /* end robotization*/
+  
+  
+  
+  /* trend */
+  .ft12{
+    background-color: white;
+    height: 900px;
+    margin-top: 50px;
+    width: 1400px;
+  }
+  .heading12{
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px 0px 15px 540px;
+    font-weight: 700;
+  }
+  .brrr{
+    font-size: 20px;
+    margin: 0px 0px 0px 400px;
+  }
+  .brrrr{
+    margin: 0px 0px 0px 480px;
+    margin-top: -20px;
+  }
+  .cu{
+    height: 470px;
+    width: 1100px;
+    margin: 100px 0px 0px 200px;
+  }
+  /* end trend */
+  
+  
+  /* bezos */
+  .bez{
+    width: 1540px;
+    margin: -50px 0px 0px 0px;
+  }
+  /* end bezos */
+  
+  
+  /* ai */
+  .ft14{
+    background-color: #b9dfdf;
+    height: 1000px;
+    width: 1550px;
+  }
+  .brd{
+    height: 800px;
+    width: 700px;
+    margin-top: 80px;
+    margin: 80px 0px 0px 200px ;
+  }
+  .ft15{
+    background-color: #d7eded;
+    font-size: 36px;
+    height: 800px;
+    width: 510px;
+    margin: -920px 0px 0px 900px ;
+    padding: 50px;
+    padding-top: 7px;
+  }
+  .heading15{
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    padding-top: -500px;
+    font-size: 36px;
+  }
+  
+  .abb{
+    font-size: 1.25rem;
+    font-weight:300;
+    padding: 40px;
+    font-size: 20px;
+    padding-top:-90px ;
+  }
+  /* end ai */
+  
+  
+  /* perspective */
+  .aabb{
+    height: 600px;
+    width: 650px;
+    padding-left: 80px;
+  }
+  .ft16{
+    background-color: white;
+    height: 500px;
+    width: 510px;
+    margin-top: 250px;
+  }
+  .ft17{
+    background-color: white;
+    font-size: 36px;
+    height: 600px;
+    width: 650px;
+    margin: -920px 0px 0px 770px ;
+    padding: 50px;
+    padding-top: 7px;
+    margin-top: -500px;
+  
+  }
+  .heading16{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .heading17{
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  /* end perspective */
+  
+  
