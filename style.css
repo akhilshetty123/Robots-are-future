@@ -72,7 +72,7 @@
    div{
     width:100%;
    }
-  .techno
+  .image1
   {
     margin: 0;
     width: 80%;
@@ -217,7 +217,7 @@
     margin: -100px 0px 0px 90px;
     padding-top: 130px;
   }
-  .coll{
+  .image2{
     margin: 0;
     width: 154%;
     height: 10%;
@@ -260,7 +260,7 @@
     margin: 0px 0px 0px 40px;
     margin-bottom: 100px;
   }
-  .zoo{
+  .image3{
     margin: 0;
     width: 100%;
     height: 270px;
@@ -274,7 +274,7 @@
     height: 500px;
     width: 400px;
   }
-  .boo{
+  .image4{
     margin: 0;
     width: 100%;
     height: 500px;
@@ -308,7 +308,7 @@
     padding: 150px;
     margin-bottom: 100px;
   }
-  .coo{
+  .image5{
   
     width: 1550px;
     height: 505px;
@@ -347,15 +347,15 @@
     margin: 20px 0px 15px 540px;
     font-weight: 700;
   }
-  .brrr{
+  .para1{
     font-size: 20px;
     margin: 0px 0px 0px 400px;
   }
-  .brrrr{
+  .para2{
     margin: 0px 0px 0px 480px;
     margin-top: -20px;
   }
-  .cu{
+  .image6{
     height: 470px;
     width: 1100px;
     margin: 100px 0px 0px 200px;
@@ -364,7 +364,7 @@
   
   
   /* bezos */
-  .bez{
+  .image7{
     width: 1540px;
     margin: -50px 0px 0px 0px;
   }
@@ -377,7 +377,7 @@
     height: 1000px;
     width: 1550px;
   }
-  .brd{
+  .img8{
     height: 800px;
     width: 700px;
     margin-top: 80px;
@@ -400,7 +400,7 @@
     font-size: 36px;
   }
   
-  .abb{
+  .para3{
     font-size: 1.25rem;
     font-weight:300;
     padding: 40px;
@@ -411,7 +411,7 @@
   
   
   /* perspective */
-  .aabb{
+  .image9{
     height: 600px;
     width: 650px;
     padding-left: 80px;
@@ -440,6 +440,9 @@
   .heading17{
     font-size: 48px;
     font-family: 'Open Sans', sans-serif;
+  }
+  .para4{
+    margin: 0px 0px 0px 5px ;
   }
   /* end perspective */
   
